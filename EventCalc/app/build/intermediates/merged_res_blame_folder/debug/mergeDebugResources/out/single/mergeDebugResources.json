@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_balloon.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_balloon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_button_event_selected.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\button_event_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_calculate.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_calculate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_people.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_entertainment.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_briefcase.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_briefcase.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_food.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_cake.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_cake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_button_event_default.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\button_event_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_light_bulb.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_light_bulb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\layout_activity_overbudget.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\layout\\activity_overbudget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_target.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_target.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_attire.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_attire.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_print.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_reset.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_venues.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_venues.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_other.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_photography.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_photography.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_baby.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_baby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_decor.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_seekbar_progress.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_dialog_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_venue.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_venue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_seekbar_thumb.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_poppers.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\poppers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_misc.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_misc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_style.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.10.2\\com.example.eventcalc.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.eventcalc.app-debug-34:/drawable_dialog_background.xml.flat",
+        "source": "com.example.eventcalc.app-main-36:/drawable/dialog_background.xml"
+    }
+]

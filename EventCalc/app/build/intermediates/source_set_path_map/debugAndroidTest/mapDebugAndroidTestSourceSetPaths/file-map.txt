@@ -1,0 +1,6 @@
+com.example.eventcalc.test.app-tracing-1.2.0-0 C:\Users\Hp\.gradle\caches\8.10.2\transforms\8a63ccdd668fef82dcbf23192a2ca67a\transformed\tracing-1.2.0\res
+com.example.eventcalc.test.app-core-1.6.1-1 C:\Users\Hp\.gradle\caches\8.10.2\transforms\e7e5cedd42e0c795e0761dbc761e112a\transformed\core-1.6.1\res
+com.example.eventcalc.test.app-androidTest-2 C:\Users\Hp\A2-Moblie App\GITHUB\EventCalc\EventCalc\app\build\generated\res\resValues\androidTest\debug
+com.example.eventcalc.test.app-mergeDebugAndroidTestResources-3 C:\Users\Hp\A2-Moblie App\GITHUB\EventCalc\EventCalc\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.eventcalc.test.app-mergeDebugAndroidTestResources-4 C:\Users\Hp\A2-Moblie App\GITHUB\EventCalc\EventCalc\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.eventcalc.test.app-debugAndroidTest-5 C:\Users\Hp\A2-Moblie App\GITHUB\EventCalc\EventCalc\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

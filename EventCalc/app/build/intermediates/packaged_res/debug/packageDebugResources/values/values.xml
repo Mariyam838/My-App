@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>AE UAE (AED)</item>
+        <item>US United States (USD)</item>
+        <item>GB United Kingdom (GBP)</item>
+        <item>EU Europe (EUR)</item>
+        <item>IN India (INR)</item>
+    </string-array>
+    <string-array name="event_styles">
+        <item>Casual</item>
+        <item>Semi-formal</item>
+        <item>Formal</item>
+        <item>Luxury</item>
+    </string-array>
+    <string-array name="venue_types">
+        <item>Indoor</item>
+        <item>Outdoor</item>
+        <item>Beach</item>
+        <item>Garden</item>
+        <item>Hotel</item>
+        <item>Restaurant</item>
+    </string-array>
+    <color name="background">#F5F0F7</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#F94988</color>
+    <color name="colorPrimary">#F94988</color>
+    <color name="colorPrimaryDark">#E03A77</color>
+    <color name="green">#4CAF50</color>
+    <color name="holo_pink">#F94988</color>
+    <color name="lightGray">#F7F7F7</color>
+    <color name="textDark">#333333</color>
+    <color name="textMedium">#666666</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="btnReset" type="id"/>
+    <string name="_10">10%</string>
+    <string name="_1000">1000</string>
+    <string name="_2">2</string>
+    <string name="_30">30%</string>
+    <string name="_300">300</string>
+    <string name="_3000">3000</string>
+    <string name="_40">40%</string>
+    <string name="_4000">4000</string>
+    <string name="_5">5</string>
+    <string name="_500">500</string>
+    <string name="_7">7%</string>
+    <string name="_700">700</string>
+    <string name="aed_0">AED 0</string>
+    <string name="aed_10_000">AED 10,000</string>
+    <string name="aed_1_000">AED 1,000</string>
+    <string name="aed_300">AED 300</string>
+    <string name="aed_3_000">AED 3,000</string>
+    <string name="aed_4_000">AED 4,000</string>
+    <string name="aed_500">AED 500</string>
+    <string name="aed_700">AED 700</string>
+    <string name="amount">Amount</string>
+    <string name="app_name">EventCalc</string>
+    <string name="attire">Attire</string>
+    <string name="budget_breakdown_calculator">Budget Breakdown Calculator</string>
+    <string name="budget_suggestions">Budget Suggestions</string>
+    <string name="calculate">Calculate</string>
+    <string name="category">Category</string>
+    <string name="choose_your_style">Choose your style</string>
+    <string name="decor">Decor</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="event_details">Event Details</string>
+    <string name="eventcalc">EventCalc</string>
+    <string name="eventcalc_logo">EventCalc Logo</string>
+    <string name="final_summary">Final Summary</string>
+    <string name="food">Food</string>
+    <string name="how_many_guests">How many guests?</string>
+    <string name="misc">Misc</string>
+    <string name="photography">Photography</string>
+    <string name="plan_your_event_budget">Plan Your Event Budget</string>
+    <string name="print">Print</string>
+    <string name="remaining">Remaining</string>
+    <string name="reset_form">Reset Form</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="smart_budget_estimates_for_your_next_celebration">Smart budget estimates for your next celebration</string>
+    <string name="smart_budget_planning">Smart Budget Planning</string>
+    <string name="todo">TODO</string>
+    <string name="total_used">Total Used</string>
+    <string name="venue">Venue</string>
+    <string name="venue_type">Venue type</string>
+    <string name="wedding">Wedding</string>
+    <string name="what_type_of_event">What type of event?</string>
+    <string name="you_re_under_budget_by_aed_0">You\'re under budget by AED 0</string>
+    <string name="your_budget_is_balanced_great_job_planning">Your budget is balanced. Great job planning!</string>
+    <string name="your_hint">your hint</string>
+    <style name="Theme.EventCalc" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#C39BD3</item>
+        <item name="colorPrimaryDark">#A7C7E7</item>
+        <item name="colorAccent">@android:color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryDark</item>
+    </style>
+    <style name="Theme.EventCalc.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@drawable/gradient_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/poppers</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.EventCalc</item>
+    </style>
+</resources>
